@@ -24,7 +24,7 @@ export default function Home({ allPostsData }) {
 				<p>Hello, I'm <b>Dennis</b>. I'm a web developer, software engineer, and game developer.</p>
 				<p>
 					I built this blog using Next.js and by their tutorial at{' '}
-					testy test
+					testy test more
 					<a href="https://nextjs.org/learn">our Next.js tutorial</a>.)
 				</p>
 			</section>
